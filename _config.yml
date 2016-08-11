@@ -1,0 +1,28 @@
+name: Storyfire
+favicon: null
+layout_spectrum: 0.6874278502073139
+typography_spectrum: 0.29382161633111537
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.5470585285220295
+  lightness: 0.5384746955242008
+  saturation: 0.717851348221302
+  rhythmicContrast: 0.978796309325844
+purpose: []
